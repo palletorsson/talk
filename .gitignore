@@ -1,0 +1,11 @@
+*.log
+*.pot
+*.pyc
+local_settings.py
+*.*~
+*.sqlite3
+*.mo
+*.po
+*.save
+.idea/*
+/media/*
