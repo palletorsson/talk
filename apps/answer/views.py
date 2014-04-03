@@ -4,6 +4,11 @@ from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
 from apps.answer.models import Answers
 from serializers import AnswersSerializer
+from megahal import *
+import re
+
+megahal = MegaHAL()
+
 
 class JSONResponse(HttpResponse):
     """
@@ -19,7 +24,9 @@ def answers_list(request):
     """
     List all code snippets, or create a new snippet.
     """
+
     if request.method == 'GET':
+        print megahal.get_reply('hey, wazzap')
         try:
             looking = request.GET['question']
         except:
@@ -74,13 +81,21 @@ def answers_detail(request, pk):
         return HttpResponse(status=204)
 
 
+
 def ask_omniHal(question):
     onmi = omniHal()
     onmi.question = question
-    onmi.answer = "You have been heard!"
+    onmi.answer = megahal.get_reply(question)
+    print onmi.answer
     return onmi
 
 
 class omniHal(object):
     pk = "636"
+
+def omniLearn():
+
+    file = open("/home/palle/Project/django/pt/talk/talk/apps/answer/Neuromancer.txt")
+    text = file.read()
+    megahal.learn(text)
 
