@@ -4,11 +4,19 @@ from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
 from apps.answer.models import Answers
 from serializers import AnswersSerializer
-from megahal import *
 import re
+from cobe.brain import Brain
 
-megahal = MegaHAL()
+BRAIN_FILE = "cobe.brain"
 
+brain = Brain(BRAIN_FILE)
+
+def LearnAndReply(line):
+	onmi = omniHal()
+	onmi.question = line
+	brain.learn(line)
+	onmi.answer = brain.reply(line)
+	return onmi
 
 class JSONResponse(HttpResponse):
     """
@@ -19,83 +27,47 @@ class JSONResponse(HttpResponse):
         kwargs['content_type'] = 'application/json'
         super(JSONResponse, self).__init__(content, **kwargs)
 
-@csrf_exempt
 def answers_list(request):
-    """
-    List all code snippets, or create a new snippet.
-    """
-
-    if request.method == 'GET':
-        print megahal.get_reply('hey, wazzap')
-        try:
-            looking = request.GET['question']
-        except:
-            pass
-
-        try:
-            answer = Answers.objects.get(question__icontains=looking)
-            print answer
-            print "database pattern"
-        except:
-            try:
-                answer = ask_omniHal(request.GET['question'])
-                print "omniHal patter"
-            except:
-                answer = "{'pk': 1, 'answer': 'Piracy is your friend'}"
-                print "lazy pattern"
-
-
-        serializer = AnswersSerializer(answer)
-        return JSONResponse(serializer.data)
-
-    elif request.method == 'POST':
-        data = JSONParser().parse(request)
-        serializer = AnswersSerializer(data=data)
-        if serializer.is_valid():
-            serializer.save()
-            return JSONResponse(serializer.data, status=201)
-        return JSONResponse(serializer.errors, status=400)
-
-csrf_exempt
-def answers_detail(request, pk):
-    """
-    Retrieve, update or delete a code snippet.
-    """
-
-    answer = Answers.objects.get(pk=pk)
-    if request.method == 'GET':
-        serializer = AnswersSerializer(answer)
-        return JSONResponse(serializer.data)
-
-
-    elif request.method == 'PUT':
-        data = JSONParser().parse(request)
-        serializer = AnswersSerializer(answer, data=data)
-        if serializer.is_valid():
-            serializer.save()
-            return JSONResponse(serializer.data)
-        return JSONResponse(serializer.errors, status=400)
-
-    elif request.method == 'DELETE':
-        Answers.delete()
-        return HttpResponse(status=204)
-
-
-
-def ask_omniHal(question):
-    onmi = omniHal()
-    onmi.question = question
-    onmi.answer = megahal.get_reply(question)
-    print onmi.answer
-    return onmi
-
+	if request.method == 'GET':	
+		answer = LearnAndReply((request.GET['question']))
+		serializer = AnswersSerializer(answer)
+		return JSONResponse(serializer.data)
+    
 
 class omniHal(object):
     pk = "636"
 
-def omniLearn():
+def splitParagraphIntoSentences(paragraph):
+    import re
+    sentenceEnders = re.compile(r"""
+        # Split sentences on whitespace between them.
+        (?:               # Group for two positive lookbehinds.
+          (?<=[.!?])      # Either an end of sentence punct,
+        | (?<=[.!?]['"])  # or end of sentence punct and quote.
+        )                 # End group of two positive lookbehinds.
+        (?<!  Mr\.   )    # Don't end sentence on "Mr."
+        (?<!  Mrs\.  )    # Don't end sentence on "Mrs."
+        (?<!  Jr\.   )    # Don't end sentence on "Jr."
+        (?<!  Dr\.   )    # Don't end sentence on "Dr."
+        (?<!  Prof\. )    # Don't end sentence on "Prof."
+        (?<!  Sr\.   )    # Don't end sentence on "Sr."
+        \s+               # Split on whitespace between sentences.
+        """,
+        re.IGNORECASE | re.VERBOSE)
+    sentenceList = sentenceEnders.split(paragraph)
+    return sentenceList
 
-    file = open("/home/palle/Project/django/pt/talk/talk/apps/answer/Neuromancer.txt")
-    text = file.read()
-    megahal.learn(text)
+def make_sentence(self):
+    f = open("Neuromancer.txt", 'r')
+    text = f.read()
+    text = text.replace('\n', ' ').replace('\r', '').replace('  ', ' ').replace('   ', ' ').replace('"', ' ')
+    mylist = []
+    sentences = splitParagraphIntoSentences(text)
+    print "sentences extracted"
+    for s in sentences:
+		if s and not line.startswith('.'):
+			mylist.append(s.strip())
+    print "list made"   
+
+
 
