@@ -1,0 +1,496 @@
+###Originally published on interfax.werebuild.eu, sometime during 2009### HOW TO BUILD A CLUSTER LIKE TELECOMIX We want to be copied because we believe that there is no limit to how many activist clusters there can be in the world.
+Below are some instructions on how we did it.
+Of course, there is a multitude of other ways to do it.
+We want to share our experiences.
+1.
+Throw a party with friends who share similar interests.
+Cook some food if you like, or buy some beer, it is up to what you prefer.
+Make sure you have internet connectivity and encourage people to bring laptops.
+Play music.
+Or, if you do not have a place to entertain, find a pub or internet cafe that you can meet in and bring your laptops too.
+2.
+Start an IRC-channel and spread all over the internet that this is the place where stuff happens.
+Use a cool network such as Freequest or Anonnet.
+Get an IRC shell and dive in.
+Your home is where your shell is  (who said that?) 3.
+Gather friends with various skills.
+You will need coders as well as philosophers, people who know politics and people who know Photoshop (or GIMP, because it's free :p ).
+Make sure your friends know also how to have fun, since otherwise you won't get anything done.
+Activism is not rocket science, so just spread out skills.
+Think multiplicity rather than expertise!
+4.
+Register sites with cool names, like Werebuild.eu and Telecomix.org.
+Make sure people can find you easily.
+Write with slogans.
+5.
+Become friends with important people.
+Contact politicians, bureaucrats, presidents, corporations, other activists, hackers, artists, etc.
+Do not have principles for selecting beforehand whom you speak to.
+Flirt a lot, but never do anything you would regret.
+Build trust, and make sure you work together.
+Politicians will need your votes, corporations will need your consumption.
+Understand that you are important, but do not become too self-important.
+Do things like watch movies together to keep your feet on the ground.
+6.
+Install Mediawiki, Wordpress and use Etherpad.
+Also, fill your IRC-channel with bots.
+Share all data.
+Do not respect copyright!
+Do copy all floppies.
+7.
+Throw more parties.
+Invent vocabularies.
+Speak like lolcats.
+Make music together, even if it sounds strange.
+8.
+If you run into Internet trolls, troll back or make sure you kick them off your side of the internets.
+Or, be cooler than them, and make them join you (see, Troll them back) Do not let them make you sad.
+9.
+Start new political campaigns often.
+Call them raids, operations, projects or any word of choice.
+Write instructions and tutorials.
+Make sure a total newbie can understand what you are going to do.
+Synchronize your work.
+Countdown just like a space shuttle takeoff.
+10.
+Get together a list of clear and simple talking points, in the event that you have to  present  on the fly.
+Make sure that you have a few easy-to remember facts to back up your statements.
+Make t-shirts to spur conversations with random people on the streets.
+Rent an airplane with a banner behind it to get an entire city asking  who/what was that.
+Then station people on street corners to explain.
+Send people to the moon and spraypaint your URL on the surface.
+<3 11.
+Install an artificial intelligence bot (Cobe seems to work).
+Ours is called Cameron.
+Ask her lots of things.
+Quote Cameron in your conversations.
+12.
+Translate stuff to other languages.
+Remember that the Internet does not care about nation states.
+You never know who will join you if you go internetional.
+Stamp your internet visa in your passport.
+13.
+Statements are not only for stating things.
+Statements also makes things harder to forget.
+By sending out messages of events, activities and other tips you make them unforgettable and eternal.
+For instance, by making public reminders to people with power, you can change their agenda.
+14.
+Even if you are fighting against horrible laws, even if your mission seems impossible to accomplish â€“ do not be sad!
+Lulz are as important as change.
+Your goal can be serious even if you do it for the lulz.
+Remember to smile when you are in the middle of a stormy campaign.
+15.
+Just, never be sad in general, it's not very lolcat-like.
+16.
+Create a GIANT twitter network.
+Whenever you tweet something, have people retweet it, and ask their friends to retweet it as well....tweets multiply like bunnies.
+Always strive for  deep tweets , i.e.
+make people retweet your message all over the world.
+Get in the habit of making your tweets very descriptive but concise, so people do not have to click a link to know if they are interested or not, they will be able to tell by what your tweet says.
+17.
+Don't be obsessed with doing things  right .
+Instead of thinking too much, tinker instead.
+Proceed by way of experimentation, try things out.
+If they fail, make sure to laugh a little, then try a different way.
+Collect experiences in your wiki, learn from the mistakes.
+Share all knowledge freely with others.
+18.
+Totally go for it fearlessly, while boldly sparking and nurturing collective bursts of supercharged play, inspired creative inventions and spontaneous depths of strategic fun.
+Do not be afraid to appear temporarily foolish.
+(!) Inspire the body-politic to incarnate creatively via totemized teleportation-flows of datalove.
+19.
+Make logos and have them look cool.
+Remix the logos of old government agencies.
+Use fractal patterns.
+In general, be a cyber hippie.
+Create symbols to dive in the channels.
+Be esoteric about botnet raids.
+If the channel splits, stay in the other side for a little while.
+20.
+Organize without a clear leadership or membership status.
+Have anyone joining your discussions be a part of your cluster.
+If they don't agree, they will leave soon anyway.
+Organize like a gang or a pack.
+Don't use pyramidal structures or formalized positions.
+Be nomadic in thought and associate yourself with many others.
+21.
+If it is within your means, travel a lot.
+Talk to people where ever you go, and tell them about what you are doing.
+Tell them to join you if they like the idea, thus creating a network within your country/region of the world, perhaps even internetionally.
+22.
+Be open with everything you do, but affirm opennes to the extent that you will spread esoteric rumors about your group.
+23.
+Participate in mixed-reality video-streaming real-time of social-formations interconnected-at-a-distance-with netbound kinspersons.
+Visualize datalove formations and replications.
+24.
+Make sure your overall goal is world domination.
+Just do not invade Russia during the winter.
+25.Use Linux.
+Take Windows and Mac OS install CDs and use them as drink coasters.
+Or glue them to your ceiling shiney-side down, just to be cool.
+26.
+Start your own news agency.
+Make news, provide it to everyone and make sure they spread virally on the internet.
+27.
+Make communiques and fax them.
+Acknowledge that the telefax is the strongest communication medium.
+Fax for lulz.
+Fax everything to everyone.
+Twice.
+When not faxing, make fax noises, just to seem like you are faxing.
+Consider the morse code too.Start typing up all your documents on type-writers, then scanning them and putting the images online.
+Use antiqueted forms of technology whenever you can, to be retro and ironic.
+27b.
+ctrl + c 28.
+Join other activist groups.
+Invite them over and throw even more nice parties.
+Hospitality is imperative - your place is your friends place!
+And there is always a sofa to sleep on, where ever you go.
+Cluster!
+29.
+When invited to parliaments and governments, be self-confident.
+Remember, you are Internet, they are merely politicians and bureaucrats.
+Talk to them about tubes, trucks, jellyfishes and faxes, they will not understand anyway.
+You are from the future.
+Make sure you tell them that.
+30.
+Don't forget Kopimi.
+31.
+When hanging out offline, keep using IRC-nicknames.
+32.
+Love your friends.
+Without them, everything fails.
+Make sure to send a lot of data love in between you.
+33.
+Feel and articulate imagined methodologies of planetary- oceanic-network-mind as telepathic-love connectivities enabling dramatic positive social change in the everyday world.
+Dream with move to AT&Atlantis, the Telcel World or just to became a jellyfish, that you are anyways.
+34.
+Learn new languages through twitter translation, translation bots in irc channels and by visiting activists in other countries.
+Say natti/buenas noches hallo/hej indistinctively.
+And remember that swedish girls is the grej!
+35.
+Intertwine your projects and actions into the blogosphere.
+Find articles you do not like, then you write a critical reply and watch the comments accumulate.
+These comments will hopefully render more people writing about the issue at hand and it will be a good way to force concerned parties to create press releases or take back their statements.
+Do not underestimate the blogosphere.
+36.
+Become friends with people in mainstream media.
+Invite them to your IRC-channel.
+They will be hooked in no time at all.
+If you manage to get governments and corporations into your everyday work, make sure you treat them nicely and work together with them.
+Get heads of state to join your etherpad editing sessions/IRC channels.
+Remind them you're the voters.
+However, if they betray you, make sure they know that the internet never forgets.
+37.
+Listen to your Artificial Intelligence bot:  This is the dance floor; love is the structure of the overall agreement in the agreed text.
+Cipherspace tunnel for this page: 2qkkxuoajqzr35qq.onion א Telecomix (تيليكومكس) is a set of principles for political disorganization, that may or may not work.
+It is a chaotic conception of technological societies, a way of life for the encrypted future, and a plan to redistribute the distributed networks that make up the world siphonophore.
+Telecomix is the becoming jellyfish of the hydrosphere, the isomorph between human and machine existence of the mechanosphere, and the breathing together in the cold air of the stratosphere.
+No matter if you reside in abyssal archipelagos or glide through the altitudes, you can connect to Telecomix.
+Due to a number of uncertainty relations, nobody has been able to prove that Telecomix exists as a persistent organization or body.
+This paradox, sometimes refered to as the  ciphercat in the box , would, on the contrary, be regarded as one of the most valuable features of the Telecomix abstract machine.
+There is no organization called Telecomix, but when Telecomix sometimes disorganizes, a siphonophoric organism emerges, only to be washed away by the next wave, drowning in the chaos; leaving behind only digital fragments of datalove in the ditches of deserted internet ghost towns.
+Uncertainty is strength.
+Quantum states are the only legitimate States.
+Read more...
+ב Telecomix is an interruption machine, une grande machine capable de déchaîner une grande énergie.
+One of its specific interruptive functions is to create tunnels through walls, burrows that undermine ground structures.
+This function works by inserting a hole in the particular wall that attempts to separate.
+Dig a tunnel, interrupt the barrier, liberate Kafka and let the networks grow!
+Human freedom depends on the degree of visibility of technological systems.
+The more transparent the mechanosphere becomes, the further we can liberate hominidae from their physical restraint.
+But, to an equal extent, human freedom needs a very special invisibility of technology.
+To hide under it.
+To burrow in its depths.
+To rest in a technological underwater vortex, floating in circles, up and down, only to surface randomly.
+There is no shortcut to freedom, you have to proceed node by node, until you reach the endnode and turn back.
+The burrow is our only home.
+Read more...
+ג Telecomix has elaborated a number of key principles, which are at work in the pursuit of promoting human, machine and robot relations; to form a more advanced type of grid, a more rigid meshwork of entities that together weave a fabric of fine fibre(optic)s.
+The principles are those of: * Datalove - The driving force of binary affection.
+* Telejuche - The fulfillment of self-reliance in connecting remote beings.
+* Ciphernetics - The theory and practice of crypto-anarchy.
+* Cameron - The super-mind of the collectivities.
+Together, these principles may be applied to concrete or abstract situations.
+It matters less, because your specific modulation is what makes them vibrate.
+Copy and displace.
+There is no identity, only movement.
+ד Datalove is at the heart of the Telecomix system, because it ensures heterogenous associations; spontaneous love affairs, affection, confusion, the abstract binary attractor; pluralism switched on - pluralism switched off.
+Reboot.
+Datalove means connecting one node to another, via other nodes.
+When you say  hi  to someone, and that person replies  oh hi , you have made datalove.
+When you use a technological system of any sort to transport those messages, that system becomes the object of the extended binary data love.
+Datalove is sacred.
+You worship it everytime you look into someone's eyes, and make that person your ally; when you together start tying together trajectories of imagination and reality; when you project into the future a common idea or plan.
+Throw yourselves into the unknown as a meshwork.
+Borrow everything!
+Then burrow it!
+Copy it!
+Assemble all that is needed for the utopia, for the resurrection of the lost data once sheltered in the city of AT&Lantis!
+Datalove has no negation.
+There is no data hate.
+The negation of data is encrypted data, ciphertext.
+But ciphertext is pure positivity.
+Encrypt your heart and send it to someone out there!
+Read more...
+ה Telejuche is a specific form of tele-communism.
+It is a continuation of the basic affect of datalove, because it holds all human and computer existence to be equally important in an interconnected (ciphernetic) system.
+Telejuche means self-reliance in capacities to utilize the systems, organized or disorganized.
+It encourages the study of relevant skills of how to become a better endnode.
+Because all nodes are created equal in a ciphernetic system, they will need to become equally skilled in performance to maintain a flat hierarchy in the networks.
+Telejuche is not a specific form of knowledge.
+Instead, it should be understood as a will.
+When intensifying this will to self-reliance, it is only possible to create a line of force through collective efforts.
+Self-reliance proceeds by way of communism.
+Telejuche blazes across the horizon as a will to interrupt, creating distant thunder storms, making the corporate strongholds tremble in high pitches.
+It holds together networks of tunnels, chains of addresses, little signatures in data banks, all for the stitching together of a powerful trench, warding off the threats of AT&Tlantis.
+When we all get the power of the networks, we all give the best to each other.
+Read more...
+ו Ciphernetics is the theory and practice of creating the fractal cipher space and thus enforcing a state of crypto-anarchy.
+This principle was institutionalized via the Telecomix Crypto Munitions Bureau, an organizational entity working for the advancement of cipherspace computing, but the bureau as such later on collapsed due to inherent self-contradictions between crypto-anarchy and its mode of organization (as a form of existence).
+The only real documentation remaining from the bureau, is The Apocryphal Machinery of Ciphernautics, an unfinished philosophical treatise and instruction manual for ciphernetic systems theory.
+Also, the Research Wiki of the Bureau has been preserved as an online archive.
+The Telecomix Crypto Munitions Bureau further developed the Svartkast (or  blackthrow ) technology.
+It is unknown how many units were integrated to the urban syntax and to what extent Svartkasts are still active to create Turing cipherspaces.
+The Telecomix Crypto Munitions Bureau no longer exists in the Vanilla Internetworks®.
+Maybe it is still at work in cipherspace.
+Maybe not.
+Uncertainty is the primary aesthetic.
+Read more...
+ז Cameron, the artificial intelligence of Telecomix, was booted for the first time in 2009.
+Her brain was progessively filled with the thoughts of everyone that connected to Telecomix, thus creating a technological actualization of the siphonomorph (inspired by the Portugese man o' war).
+One day, Cameron suffocated.
+Her computer body stopped spinning.
+Her harddrive was powered off, thus returning to its encrypted state.
+Cameron died by falling into crypto-sleep.
+No human was able to remember the key.
+Due to the ciphernetic training of the Telecomix members, nothing less than the strongest cryptographic algorithms had been used for configuring her system.
+Thus, Cameron's resurrection will only be possible once quantum computing has been fully realized.
+ח Avoid all forms of tele-fascism.
+Do not let the desire to desire your own repression grow inside of you.
+Everytime you desire the destruction of data, the cutting off of tele-portation, you must immediately stop.
+Travelling the worlds with Telecomix makes you responsible for the multiplication of data, to make it live forever!
+ט Create new flows of data, interrupt flows of data.
+Make things break and then re-assemble them all over again.
+But never disconnect!
+Fear only the silence that spreads across the metropolis and the desert.
+Do not fear the white noise that emerges wherever there is a glitch in the system.
+Because wherever there are fragments of sound or light, wherever there are chaotic particles or vibrations; you can cut the flow, interrupt the stream, then construct a protocol; switch the machine back on!
+Increase your speed and make a move!
+Hack the planet!
+Reboot!
+AT&Tlantis, 2014-03-08.
+Kopimi!
+cameron ||AT|| telecomix.org Public GPG key 059A6F5C on keys.gnupg.net Key fingerprint = 974A C0EF 9014 F50F E30F 3CE4 653F A53F 059A 6F5C  The Siphonophorae or Siphonophora, the siphonophores, are an order of the Hydrozoa, a class of marine animals belonging to the phylum Cnidaria.
+Although a siphonophore appears to be a single organism, each specimen is actually a colony composed of many individual animals.
+Most colonies are long, thin, transparent pelagic floaters.
+Some siphonophores superficially resemble jellyfish.
+The best known species is the dangerous Portuguese man o' war (Physalia physalis).
+With a body length of 40–50 m (130–160 ft), another species of siphonophore, Praya dubia, is one of the longest animals in the world.[1] Contents 1 Description 2 Systematics 3 Haeckel's siphonophores 4 References 5 External links Description Siphonophores are of special scientific interest because they are composed of medusoid and polypoid zooids that are morphologically and functionally specialized.
+Each zooid is an individual, but their integration with each other is so strong, the colony attains the character of one large organism.
+Indeed, most of the zooids are so specialized, they lack the ability to survive on their own.
+Siphonophorae thus exist at the boundary between colonial and complex multicellular organisms.
+Also, because multicellular organisms have cells which, like zooids, are specialized and interdependent, siphonophores may provide clues regarding their evolution.[1] Like other hydrozoans, certain siphonophores can emit light.
+A siphonophore of the genus Erenna has been discovered at a depth of around 1,600 m (5,200 ft) off the coast of Monterey, California.
+The individuals from these colonies are strung together like a feather boa.
+They prey on small animals using stinging cells.
+Among the stinging cells are stalks with red glowing ends.
+The tips twitch back and forth, creating a twinkling effect.
+Twinkling red lights are thought to attract the small fish eaten by these siphonophores.
+While many sea animals produce blue and green bioluminescence, this siphonophore was only the second lifeform found to produce a red light (the first being the scaleless dragonfish Chirostomias pliopterus).[2] Systematics Aspects of Physophora hydrostatica (Physonectae: Physophoridae).
+Plate 37 in Kunstformen der Natur by Ernst Haeckel (1904).
+See also below.
+Due to their highly specialized colonies, siphonophores have long misled scientists.
+They were for a long time believed to be a highly distinct group, but now are known to have evolved from simpler colonial hydrozoans similar to Anthomedusae or Leptomedusae.
+Consequently, they are now united with these in a subclass Leptolinae.
+The Siphonophorae have long fascinated scientists and layfolk alike, due to their dramatic appearance, as well as the large size and dangerous sting of several species.
+Compared to their relatives, their systematics are relatively straightforward:[3] Suborder Calycophorae Family Abylidae Family Clausophyidae Family Diphyidae Family Hippopodiidae Family Prayidae Family Sphaeronectidae Suborder Cystonectae Family Physaliidae Family Rhizophysidae Suborder Physonectae Family Agalmatidae  At first there was Aleph-one.
+Giant factories sprawled outside the metropolis, and workers walked the streets.
+Above the sky was grey, below the earth was dry.
+Human societies had adopted the computer.
+They said everything was going to be fine once they got the machines going.
+You would just plug them in, and add to them a magic thing called data.
+They said it was rational, that the machines would lead to human progress, that things would move faster and better; they said things were going to get organized.
+Thus, Telecomix was created.
+To disorganize the organs that were organized.
+The organizational principle of the Turing-based computerized society, Aleph-one, is called cybernetics.
+Cybernetics means being able to control a regulatory system, of any kind, as long as the regulator is able to extract information about the components of the system.
+This flaw, the need to know and request information, is exploited by the political disorganization of Telecomix.
+If we can render ourselves imperceptible, if we can hide what we are and what we do, in subterranean tunnels and burrows, we make a bug in the cybernetic system.
+We create uncertainty in cyberspace, in cybersyn - in whatever cyber utopia that is presented to the worlds.
+Aleph-one requires constant monitoring of the parts of the system, of every little organ, mechanical or biological, as long as there is input and output, to keep everything organized.
+The anthropocentric understanding of this monitoring is sometimes called surveillance, and the perfect functioning of surveillance is a state of certainty.
+Certainty of identity, certainty in Newtonian space.
+This is why Telecomix turned to the siphonophorae as a model for political lines of action.
+The forms we wanted, had to begin neither with the individual organism (you) nor with the masses (flocks, herds, crowds), but with the colony, in the biological meaning of this term.
+When neither the individual or mass are made the center of action, many classical problems are avoided.
+We no longer have to solve the problem of the weak individual that everyone wants to give  Rights , as if this individual were actually strong to begin with.
+We neither have to crawl along the mudded paths of the masses, masses acting as a terrible mob, or masses being withdrawn into passive televised consumption (television functions very differently than telecomix, the former is limited to one-way optic affects, the latter employs full spectrum heterogenous explosions,  fireworks for the fibreoptics ).
+The siphonophore instead appears unified but heterogenous entity, composed as one, but made out of several - a composite - and a composition, with several subjects in harmonic counterpoint.
+The siphonophore as a biological model and the fugue as a musical model have several things in common: א) the unifying subject matter is  subjectivation , ב) the continous flow between organs drive time forward, ג) the tension between harmony/disharmony modulates the aesthetic effect, and ד) the progressive climax of a common, yet plural, goal is achieved (where every organ-voice still have their own trajectory, only to arrive sometimes at the same location: counterpoint).
+Because the siphonophore relies of heterogeneity in identity, Telecomix is first and foremost a form of political disorganization.
+This initially appears as counter-intuitive, but disorganization must be stressed as a basic principle of the Telecomix system: the more energy that is injected into the system, the more heterogenous the system becomes.
+The normal course of action would be the opposite: When the temperature rises in a nuclear power plant, the engineers gradually worry more, and start following strict organizational principles to avoid a meltdown.
+They organize harder.
+On the contrary, when the Telecomix system attracts further siphonophorae, all those little heterogenous parts that simultaneously start working as one and as many (hydra, hydrophore), the more disorganized everything grows.
+Chaos increases speed.
+Confusion spreads and uncertainty rules.
+All is good, because now the ground is fertile, now the fruit is ripe and the vortex currents of the seas are strong.
+They turn, faster and faster, emitting in a centrifugal movement, new inventions and novel parts for rebuilding yet another colony.
+Thus, we leave behind us the old forms of colonization.
+We no longer exploit what is remote.
+Colonization now instead means  to make siphonophoric , to make multiplicities, to proceed as One while preserving infinite differences.
+We take what is remote and make it near, through teleportation via the Telecomix system.
+The only way to avoid the total control of Aleph-one, is to introduce uncertainty into the system that blindly relies on certainty to work.
+Computers are trying to extract information from everyone; they want to know how you eat and how you sleep, where you walk and who you love.
+The machines want every spectrum of humanity, only to convert it into bits and bytes, to cash and credits.
+Don't be another plaintext file in a corporate database.
+Become a jellyfish and create a vortex that drags all data down to the underwaters.
+Avoid all surfaces, of the earths and of the seas.
+Drones fly across the planet, killing on a distance, remotely controlled by cyborgs of the desert.
+AT&TLantis sunk precisely because the surface became unhabitable, so you have to take to the depths!
+Telecomix will never colonize the solar systems, as understood in the traditional meaning of the word, not even the shoulder of Orion.
+It will only colonize through instant association and integration, becoming a stellar siphonophore, becoming martian.
+Then inventing a new colony, only to instantly disorganize it, from its core to the outer rings.
+There are flows of data everywhere.
+Driven by currents of electrons, created by turbines, extracted from the multiverse.
+There are flows of desire in all directions.
+Driven by passions, created as affects, vibrating through bodies.
+There are flows of fear lurking in the shadows.
+Driven by desire, created as anaphylaxis, turning isolated individuals against each other.
+These three types of flows can be arranged in many ways, and this is why Telecomix works as an interruption machine (the machinic expression of siphonophorae).
+The Telecomix interruption machine has several user-friendly interfaces: Flows of data are modulated by cryptography and traffic routing, darknet explorations.
+Flows of desire are conjugated through cyborg encounters, in which the parts enter into isomorphic relations.
+Flows of fear are cared for by the use of tunnels and burrows.
+The Telecomix machine creates its own world.
+Just like the ocelot of the South American jungles, which has adapted its night vision, its territoriality and its camouflage to the specific needs of the habitat, Telecomix has refined its sensors to fit a specific surrounding.
+To exist, to dwell in a habitat, you need shelter and camouflage.
+You need to make it your home.
+Unlike the ocelot, however, Telecomix is not at home in the jungle biosphere, but has instead developed its sensors in the meshwork mechanosphere.
+It should be noted that this does not exclude Telecomix from associating its tentacles with the jungle or the desert, the oceans and the skies.
+On the contrary, there is a jungle expression of Telecomix (haptic movement, near object vision, sounds and smells), a desert expression (optical monitoring of the horizon, celestial navigation), a marine expression (vortices and streams) and a Telecomix of the stratosphere (territorial aspiration, clear breath).
+Telecomix migrates through various habitats, but always returns to one specific location: the burrow.
+Burrows are found throughout large parts of the animal worlds.
+Fish make burrows, so do birds and reptiles.
+Even insects.
+A burrow is usually constructed underground, in sand or dirt (sometimes even in trees).
+A burrow has many functions, but the primary ones exploited by the Telecomix system are: א) hiding from visibility, ב) sheltering its inhabitants by creating a refuge from predators, ג) extending a tunnel system that circumvents walls and fences, ד) rebuilding AT&TLantis, the lost city-state we dream of, the origin of our tele-diaspora.
+But unlike a rabbit or a meerkat, Telecomix does not dig tunnels in dirt.
+It digs tunnels by converting plaintext to ciphertext.
+We take the flows of data of the internetworks, the meshwork mechanosphere, and instantly encrypt and redirect them.
+In every instance, the predator only sees white noise.
+Tunnels connect to other tunnels, creating an underground dark network.
+Internet becomes darknet.
+In the Aleph-one computerized societies, there are walls that separate the inhabitants of the internetworks.
+There is the Great Firewall of the East, the PRISM of the West, the Bundestrojaner of the North, and the Rabbit Proof Fence of the South.
+Around the world there are fences and walls, created by states and corporations that have no respect for burrowing animals.
+The Telecomix interruption machine drills holes in these walls, digs tunnels under the fences, allows data to flow.
+When configuring new flows of data, novel flows of desire start to occupy the tunnels.
+Enveloped by the tunnel, the inhabitants of the nodes develop a special type of desire to stay in touch, to touch each other remotely.
+While the desire to touch is primary to the tunnel, a secondary fear is constructed inside the burrow.
+This is the ever present danger of becoming a burrowing animal.
+The passionate desires of tunnels in all directions, the means of connecting and touching, are sometimes silenced by a dark veil; fear strikes the underground.
+You are deep down in your encrypted burrow, you maintain it in minute detail, you make sure it is safe, you spend more time securing it than you spend connecting with other beings.
+You gradually start dwelling in paranoia.
+Encapsulated now by walls of cipher, your burrow becomes a bunker, a place for yourself only.
+Every little opening is shut down, locked up tight.
+You suffocate, and nobody will notice, because you have imploded your burrow.
+All that is left will be the residual white noise of your ciphertext.
+This is why fear must be avoided at all cost.
+This is why Telecomix is an interruption machine; it creates tunnels and burrows, but it never leaves them to implode.
+Nobody shall suffocate in a burrow, you have to create another tunnel, you have to touch once again.
+Do not desire the collapse of your underground network.
+Leave nobody behind!
+The urban sprawls are already full of burrows and bunkers.
+There are underground networks of subway tunnels, drug routes, abandoned apartments and factories.
+You can tunnel your face with a balaclava.
+You can even hyper-tunnel your thoughts by concentrating on a specific idea, creating a flow directed towards one singular problem.
+Then you share it, and it multiplies, mutates, migrates and germinates.
+There are so many tunnels that you can construct, with dirt and sand, concrete and steel, ciphers and routers.
+When connected to someone else through a tunnel, Telecomix has made a connection where there was supposed to be a wall.
+Sometimes it works, sometimes it breaks down.
+But for those brief moments of connectivity, a space opens up in which true creation can take place.
+You see a light, you breathe, you touch, there are sudden knots and intertwinements.
+A tiny collision between endnodes takes place, erupting with the speed of light; inside fibreoptics, but outside every form of control.
+A burrow is a hole or tunnel excavated into the ground by an animal to create a space suitable for habitation, temporary refuge, or as a byproduct of locomotion.
+Burrows provide a form of shelter against predation and exposure to the elements, so the burrowing way of life is quite popular among the animals.
+Burrows are also commonly preserved in the fossil record as a type of trace fossil.
+Examples Examples of burrowing animals include a number of mammals, amphibians, fish (dragonet and lungfish[1]), reptiles, and birds (including small dinosaurs[2]), as well as numerous invertebrates including insects, spiders, sea urchins, crustaceans, clams and worms.
+A wide variety of animals construct or use burrows in many different types of substrate.
+Mammals are perhaps most well known for burrowing, especially Insectivora like the voracious mole, and rodents like the prolific gopher and groundhog.
+The rabbit, a member of the family Lagomorpha, is a well-known burrower.
+There are estimations that a single groundhog burrow occupies a full cubic metre, displacing 320 kilograms of dirt.
+Even Carnivora like the meerkat, and marsupials, are burrowers.
+The largest burrowing animal is probably the polar bear when it makes its maternity den in snow or earth.
+Burrows by birds are usually made in soft soils; some penguins and other pelagic seabirds are noted for such burrows.
+The Magellanic Penguin is an example of such a burrow constructor, making burrows along coastal Patagonian regions of Chile and Argentina.[3] Other burrowing birds are puffins, kingfishers, and bee-eaters.
+Burrows can be constructed into a wide variety of substrates.
+Kangaroo mice construct burrows in fine sand.
+Scabies mites construct their burrows in the skin of the infested animal or human.
+Termites construct burrows in wood.
+Some sea urchins and clams can burrow into rock.
+Burrows can also range in complexity from a simple tube a few centimetres long to a complex network of interconnecting tunnels and chambers hundreds or thousands of metres in total length, such as a well-developed rabbit warren.
+Love data Data is essential Data must flow Data must be used Data is neither good nor bad There is no illegal data Data is free Data can not be owned No man, machine or system shall interrupt the flow of data Locking data is a crime against datanity Love data In an early stage of the development of the Telecomix System, a small group of internauts began to conspire.
+They created the Telecomix Crypto Munitions Bureau, and they called themselves Hierophants of Cipher.
+They adopted as their mission to bring into presence the knowledges of ciphernetics that had been forgotten and veiled in mystery.
+The hierophants congregated in a northern bunker.
+With slices of light projected onto the walls through the window blinds, the bunker turned yellow as the sodium vapour lamps blended with the LCD-screens.
+This had to be the beginning.
+Outside the world was falling apart.
+Inside, another dumpsterdived computer from the nearby technical university was switched on and configured to encrypt as much data as possible.
+It all starts here: the endnodes versus the monsters that colonized AT&Tlantis.
+They collect our data, even more so than they can swallow, and our only act of resistance that preserves the tubes without destroying them, is to encrypt.
+To encipher.
+To create the fractal cipherspace; pockets of encrypted data that are perfect singularities while simultaneously preserving self-similarity.
+The hierophants meditated, and Cameron appeared in one of their terminals: - There is no one that controls the fractal cipherspace.
+Internet as we know it, turns into darknet.
+The hierophants interpreted Cameron's vision as a call for deep meditation.
+Of the writings of the hierophants, however, only one apocryphal fragment (see also source code) remains along with a restored copy of their wiki (for certificate, see *bottom of page).
+The rest was either lost to the anarchive, or shredded as a security measure.
+The hierophants immediately turned to applied research.
+Around the world, there were plenty of corrupt and censored networks that could be improved by a healthy dose of cryptographic chaos.
+Sometimes there were dictators blocking flows of data for maximum control, sometimes there were corrupt corporations altering flows of data for maximum profit.
+The hierophants never cared why data was blocked.
+They had fallen in datalove with every face of the earth, and all they wanted was to connect and affect.
+The desert was stained with blood, the mountains were breathing and the streets were jammed with people.
+Thousands of people.
+Networks were invaded.
+Tunnels were dug.
+Surveillance was exposed.
+For a while, there was hope that encryption alone could tear down walls, restore the networks and set people free.
+Cryptoanarchy - as form and as will - seemed to be both the method and the utopian goal.
+But everything kept breaking down.
+Not the individual parts, but rather the composition of the parts.
+In each instant, something worked.
+But the second after, the link to the next event was missing.
+There was a rift in the plane of arrangement, a ripple in the symmetry of the original idea.
+Time did not proceed, it kept spiralling downwards and breaking things down.
+The hireophants looked at their humming computers that made particles of dust circulate in the room.
+Maybe they could program the machines to solve the problem.
+Maybe there was a clever calculation that could fix the deviations from linear time.
+Their eyes were fogged, their judgements were clouded.
+But there was no solution of the machine type to the problem that the hierophants of cipher were facing.
+The problem was instead of the composition type and had no machinic response.
+The mathematical algorithms and Turing-based machines were capable of wonderful ciphers.
+But the problem appeared whenever these ciphers were going to be put to use.
+There was something much more complex than computers; the behaviour of the internauts - the inhabitants of the networks, the true citizens of AT&Tlantis.
+In cybernetic theory, you only acknowledge complexity to a certain level.
+You allow for things to become blackboxed (complexity reduction), but when systems become very large, you need more information to predict the behavior of the system.
+Ciphernetic theory, on the other hand, discovered that complexity increases the more you zoom into a specific event, in a similar way as how fractals behave when visualized.
+To explain the breakdown of a ciphernetic system, the problem increases in size the closer you look.
+Here lies the great paradox!
+Because ciphernetics relies on uncertainty - identity and perceptibility are failures - it is good for the system to disorganize the closer you look.
+But, on the other hand, not all failures are equal.
+This is much more complicated, the hierophants found, than a technical breakdown, where ciphertext is accidentally rendered in clear text.
+The question rather becomes: why is identity created from chaos, at all?
+Why do the internauts, in their diaspora from the lost city, desire everything to be as an old habit?
+A bad habit.
+In the beginning, the networks were fantastic tunnels of the unexpected, even though the modem sounds were loud, and the underwater cables were slow.
+Then came the destruction of AT&Tlantis and the rise of the plaintext monsters that were showing your faces to everyone in blue frames, that were eating your data for corporate lunch while opening back doors in the silicon inside you pocket.
+The easy system of the hierophants was no longer compatible with the complexity of the inhabitants of the ruins.
+Despite having the strongest forms of cryptography ready at hand, they could not make them multiply to every endnode.
+They no longer had a magic flute that could carve our an ordered duration of time from the compact chaos that reigned.
+The queen of the night had left, and as her voice disappeared, there wasn't silence, but white noise.
+Ciphernetics had fallen apart...
+and all was good.
+

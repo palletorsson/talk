@@ -1,0 +1,216 @@
+There has been a lot of grey zone activity the last few days.
+You know that if you've followed the story about the Swedish police seizing the servers of the Bittorrent indexing site The Pirate Bay, a raid initiated by Hollywood's MPAA and probably through several more than dubious stages of political influence, raising more question marks for every hour.
+Anti-piracy is operating in its own grey zone.
+But I would like to start this talk from another direction, the positively grey, which was what was I originally was invited to talk about here at Reboot, to sum up some of the crucial points in copyright's current crisis.
+We are the many shades of the Grey commons DJ Danger Mouse took the vocals from Jay-Z's The Black Album and re-mixed it with the Beatles' White Album and in his creation, The Grey Album, he was ignoring copyright law.
+The whole circulation of the Grey Album would never have been possible without P2P file-sharing.
+These networks exists in the same space as remix or mash-up culture; a space of production, of inspiration, obtaining, downloading – remixing and reinserting distribution and up-down-loading of data.
+This grey zone is fading in and out of historically dominant forms of circulations, slowly tearing them apart and replacing them with new ones, through rapidly multiplicating small habits.
+It is not a grey commons in terms of the law, but inscribed in the technical habits we use every day.
+The grey is not optional, it is not here by an effort but rather as the shortest way to make life work with technology.
+The test, the query, the shading, the tuning and twisting is omnipresent; it is not something you can wish away.
+This is the way we live and come alive.
+The Grey Album could escape the claws of copyright owners, because the channels of distribution where there and rather untouchable.
+But this claw is stretching to bring us all back to a time before internet, P2P file-sharing and the universal computer.
+Two days ago, there was a major clampdown in Sweden, with the police seizing a large part of the world's filesharing infrastructure, The Pirate Bay, as well as silencing the voice of Piratbyrån.
+Of course only temporarily.
+We'll get back to that.
+But below such dramatic outbursts, the copyfight is raging on a conceptual level, where the permanented crises of copyright is masked by images grounded in a one-way mass-medial logic, images with no room for greyscales.
+In this dislocated situation piracy is about reestablishing connections that has been lost or cut-off.
+By developing the tools and discourses of file sharing, we try to expand the grey zones and make room for the unforeseeable.
+Instead of talking about things in the copyright industry’s universal terms, and instead shift the focus to the diverse reality of cultural circulation: what we call The Grey Commons.
+On this Grey Thursday I would like to present som thoughts that have been cooking around projects like Piratbyrån and The Pirate Bay.
+About pirate ontologies, geneaologies and strategies for the grey commons.
+Some words on the projects Piratbyrån (The Pirate Association or Bureau of Piracy) in Sweden and Piratgruppen (The Pirate Group) in Denmark are sister organizations that tries to develop and deepen the questions about intellectual property and file sharing, through discussions, events, media appearances, publishing, lectures; developing and deepening Piratbyrån was born in late summer 2003, emerging out partly from an integrated internet radio broadcast community and partly from IRC channels populated by the Swedish hacker community and demo-sceners.
+Piratbyrån was initiated to support the free copying of culture and has today evolved into a think-thank, running a community and an information site in Swedish with news, forums, articles, guides and a shop and has to date over 60000 members.
+But two days ago, it was closed down by the Swedish police seizing the servers, that stood in the same server hall as The Pirate Bay, the world's largest Bittorrent tracker.
+It was started by Piratbyrån in november 2003 but grew faster than anyone could imagine, therefore it was naturl to branch it off and today, The Pirate Bay is a fully independent entity, but in a very friendly relation to Piratbyrån.
+[Presentation about the razzia and current events left out in this version.] It's not about downloading, stupid!
+For a long time it was legal to download copyrighted files in Sweden, while the uploading of copyrighted material was criminal.
+But with the 2005 implementation of the EU copyright directive in Swedish law, also downloading was turned illegal.
+The anti-piracy lobby of course wanted everyone to believe that it suddenly has become very dangerous to be a file-sharer.
+While many voices have spoken up against the supposed “mass-criminalization of teenagers”, Piratbyrån has tried to present a more realistic picture.
+Most file-sharers use bittorrent, where every downloader is also an uploader, and thus were probably in a formal sense criminals also before this law, that doesn't really seem to have changed anything.
+It is of big importance not to accept this terminology where “downloading” appears as some kind of activity completely separate from the uploading.
+We instead insist on talking about file-sharing as an horizontal activity.
+Just like the activity of breathing includes both taking in air in the body and letting it out, filesharing has the same symmetry between up and down.
+Taking them apart, if even only through language, can only fill the purpose of replacing open exchange with centralized control.
+Talking about  downloading  obscures the fact that horizontal P2P-communication is essentialy different from vertical mass-distribution.
+It is not the same  content  taking different paths to the  consumer .
+It is about different archives and different architectures.
+There is a constant buzz, driven by mass media, about so called  legal download services  for digital movies and music, presented as an alternative to P2P networks.
+But the aim of  legal download services  is not primarily selling movies or music.
+It is rather about selling language, selling ideology, appropriating the very notion of  legal download .
+In that ideology,  legal  is understood as  for payment , and  download  as an up-down-transfer from a central server offering a limited range of so-called  content , to a consumer.
+So, we are totally mistaken if we think that we are criticising the content industry by saying that  offering legal downloads is good, but DRM sucks and prices are too high...
+etc – because with that terminology we have already swallowed the ontology of undifference.
+Horizontal exchange or vertical distribution?
+Open and unstable archiving, or centralized and limited?
+Those are the fundamental questions.
+Much more fundamental than the questions asked in the discourses about accessibility, consumer rights, social justice or compensation.
+Metadata, not copyrighted material, is the war on piracy's target Pirated copies will be produced, no matter the fate of file-sharing networks.
+We're all too often today equalising unauthorised digital copying with file-sharing networks, but it's a fact that a lot of the illicit warez arrives at the hard disk from a physical storage medium, like an usb-device, a borrowed cd or a burned dvd.
+To the extent that some people may avoid P2P networks, research shows that they just reconnect to other sources of data – be it physical copying from family and friends or files exchanges with mail and chat clients.
+It's all a piracy performed in a grey zone outside surveillance.
+So the question is not piracy or not, nor if darknets are desirable or not, but what infrastructures piracy will take use of.
+Burning cd's or gmailing files or giving them away with services like Yousendit.com, means quite much that piracy is stuck in the same infrastructure that it had during the era of the cassette tape and the photocopier, only multiplied by digital effectivity.
+There is still a dependence of finding someone (a friend, a library) with access to the source.
+File-sharing networks, however, connects every private archive that in one particular moment is connected, into the largest and most accessible archive ever.
+The war against file-sharing is essentially a war against the distribution of uncopyrighted metadata, not against the distribution of copyrighted material.
+It is about hindering the ever-present piracy from globalizing and open indexing, pushing it back to the family and the schoolyard and the workplace.
+Scaling-down, not in quantity but in network scale, from peer-to-peer to person-to-person.
+The result is not less piracy, but less plurality in piracy.
+More dependence on personal contacts means that more iPods will be filled with mainstream music that is exposed through mass media, while less people will curiously sneak around shared folders just to try out stuff.
+But the iPods will no doubt be filled anyway.
+And you can forget that it will be according to an  one copy - one payment  formula.
+Mental rights management The grey zone also becomes visible if we consider how arbitrary the very definition of  copying  is.
+How it is based upon outdated technical cathegories.
+We emphasize and affirm the tendency that it is getting harder to distinguish between local transfers of data and “file sharing” between different systems, for example in wireless environments.
+Digital technology is built on copying bits, and internet is built on file-sharing.
+Copying is always already there.
+The only thing copyright can do is to impose a moral differentiation between so-called normal workings and immoral.
+For the copyright industry, it is of extreme importance to keep people uninformed of the real workings of networked computers.
+They want to make an artificial distinction between  downloading  and  streaming , as equivalents to record distribution and radio broadcasting.
+But – and we should keep insisting that – the only difference between  streaming  and  downloading  lies in the software configuration on the receiving end.
+However, copyright law will never be able to acknowledge that.
+It has to rely on fictions, on a kind of cognitive mapping, where notions valid for traditional one-way mass media are forcefully applied to the internet.
+We call it Mental Rights Management (and it is the very precondition for DRM).
+It is essential for the copyright industry to keep the majority of computer users trapped in the belief that the ”window” of their web browser is exactly a window, through which they can look at information located elsewhere, under someone else’s control.
+Then our job is to clarify that everything you see on your screen or hear through your speakers, is already under your control.
+Zeros and ones have no taste, smell or color – be they parts of pirated material or not.
+Therefore it is impossible to construct a computer that cannot reproduce and manipulate these zeros and ones – as such a machine would no longer be a computer, but something as grotesque as a digital simulation of the machines of the last century.
+From one-way to read/write But of course the aim of copyright is to do exactly that.
+Copyright was born in 18th century England in order to regulate the use of one specific machine, a machine that was expensive, few in numbers and that could write but not read, namely the printing press.
+Ever since, copyright laws have tried with varying success to make other machines imitate the characteristics of that one-way medium.
+The concept was pretty easily adapted to the first technologies of sound and image recording, as grammophone and film entered around the turn of the last century, both being one-way media.
+But in the seventies, machines that could both read and write, like the Xerox photocopier, the audiocassette and video recorders, came into the hands of a wider population.
+This transformed the production of culture, as well as the distribution.
+Remix, cut-up and mash-up cultures flourished, with early adopters like William S. Burroughs.
+The record industry started to claim that home taping was killing music.
+Initially, they wanted to stop the cassette technology altogether.
+However, the common compromise solution in Western Europe gave the introduction of a special tax on magnetic tapes, in order to  compensate  the copyright holders for a calculated loss of sales.
+Since that time, the sampler, the CD-burner and portable memory devices has continued to make the possibilities greater.
+Now we’ve got the combination of home computers, broadband, network protocols and compression algorithms that together define what we know as P2P file sharing.
+As we stand here today a fair question must be if a principle that was implemented for controlling printing presses in 18th century England should be the hole which our present world must circulate through.
+The threefold division: A parenthesis in musical history In the beginning, copyright was simply a regulation of the reproduction of printed matter.
+Anything that was not made with printing presses, was not really under copyright's domains.
+Sound was something essentialy fleeting and intangible, something that happened in real time.
+In particular cases, musical notation was used, but primarily as a simple memory-helper for musicians.
+The Western classical tradition, however, evolved on its on way, more and more dividing the role of the composer from the role of the performer, by making notation more and more exact.
+But music and musical performances had nothing to do with copyright.
+Only the printed graphical representations of music was affected.
+But things changed with the new reproduction technologies for sound and film, some time roughly around year 1900.
+Legislation transformed as a response to the possibility to reproduce sounds and not only symbolic representations of sound.
+Copyright went from covering texts to covering Works.
+A Work can be defined as the abstract product of any artistic creation, existing independently of its material forms.
+Now, composers not only owned the symbolic representation of music in form of a musical score on a printed paper, but also the melodies themselves.
+The realm of copyright conquered two new territories: public performances and recorded music.
+But it was still based in the concept on written music.
+The symbolic score secured its power over the real vibrations stored in records, as well as over the live music experience.
+That meant that a lot collecting societies had to be funded, responsible for channeling money to composers and publishers, who still were the only musical copyright holders.
+Radio broadcasting meant a growing cake, and soon some musical performers and record companies demanded their share from it too.
+And they got it in the early 1960s, when the Rome Treaty gave international copyright two new layers: performer's rights and producer's rights.
+Music copyright, and the whole phonogram economy, is still built on this threefold division between the composer, the performer, and the producer.
+Those are the three main roles, each one represented by a different collecting society, each getting their own share of money for every song played on the radio and every CD-R sold.
+But since this system was institutionalised, the division itself has shown clear signs of dissolution, and in quite many cases, one can observe how all those three roles are converging into the figure of the bedroom producer.
+A convergence driven by the development of recording and mixing technology, from the multitrack tape recorders of the 1960s, to the contemporary average computer able to simulate what only some years ago demanded very expensive studio time.
+But lowered production costs wasn't saluted by everyone.
+Mechanical music menace At first, synthesizers were marketed as a substitute for living musicians.
+Advertisements presented the Roland MC-8 Microcomposer as a huge orchestra.
+No wonder that the musicians' trade unions, all over the world, depicted electronic instruments as a threat.
+They preserved the traumatic memories of when the introduction of talking films created mass unemplyment amongst cinema musicians, and held a strong belief that technical reproduction of music was a threatening rival to live performances.
+During the early eighties, the American Federation of Musicians fought against use of synthesizers to mimic string and wind instruments, in the name of employment.
+One idea, seriously considerated in several countries, was to impose a special fee on synthesizers, to make them less attractive and to support orchestras with  real  instruments.
+The London chapter of the British musicians' union went one step further, demanding a complete ban on synthesizers – which caused a split in the union, where musicians affirming electronics started their own Union of Sound Synthesists (USS).
+Both electronic musicians and DJ:s were being labelled as sell-outs who played the game of commercial interests.
+The unionist resistance against the synthesizer, was rooted in ideas about how capitalists tries to lower production costs, just for their own profit.
+The basis for that argument, was the hegemony of a very narrow definition of a musical performer: Only people mechanically controlling the production of sound in an instrument, like a violin or a saxophone.
+But that narrow view was soon to be undermined by a number of experiments in hacking and indeterminacy, that explored the sonic machines as something else than just representational technologies.
+DJ:s hacked the turntable, transforming it into an instrument of musical production, and the discjockey became a cathegory of creators not fitting in any of the roles in the tripartite division of composers, musicians and producers.
+The Roland TB-303 was designed to reproduce the sound of a bass-guitar, but was hard to configure and made interesting mistakes.
+Soon the misuse became the norm, as the unique squelching sounds produced by its filters came to define a whole genre of music – acid house.
+Music is, as it were, performance When making electronic music, the bedroom producer is programming patterns that are interpreted not by musicians but by machines, and then mixing the components together.
+But the bedroom producer is not really a composer and not a producer – but truly a performer.
+In contrast to the institutionalised image of the musician interpreting the symbolic notes of a composer's score, the bedroom producer interprets not symbols but real sound samples and the imaginary musical styles.
+Recombining, refining.
+Redefining bugs to features.
+Performing a beat, that in real time is performed again by the dancing crowd, interpreting sounds into bodily movements.
+Or maybe recorded, encoded as MP3, copied though Soulseek, and psychogeographically performed by playlist fanatics.
+Music is, as it were, performance.
+Even the uses of recorded sound must today be understood as real-time experiences – if we are not to be stuck in a dead-end road like the musician's unions fighting the synthesizer.
+Similar tendencies – with selection and recombination as an ever more important creative role – can be seen everywhere on the artistic fields.
+Without openly confronting copyright law at all, these practices subtly marks out a line of flight.
+Along that line, creativity and artistic interpretation migrates out from the realm of copyright, leaving its gateways to the realm of semantics wide open and leaking.
+Beyond the consumer/producer-dichotomy The copyright industry today likes to present the problem as if internet were just a way for so-called “consumers” to get so-called ”content”, and that we now just got to have ”a reasonable distribution” of money between ISP:s and content industry.
+But we must never fall in that trap, and we can avoid it by refusing to talk about “content” altogether.
+Instead, we talk about internet as communication.
+Therefore, it is totally wrong to regard our role as to represent “consumer interests”.
+On the contrary, it’s all about escaping the forceful division of humanity into the two groups ”producers” and ”consumers” that copyrights produces in different ways.
+An obvious example is the movie industry’s bizarre lobbying to “plug the analog hole”, by introducing a law banning video equipment able to rip analog media.
+The law proposal put forward by the MPAA mentions that so-called professional producers of course should have a license to use these video cards anyway.
+The effect would of course be an extreme consolidation of the split between producers and users.
+But so-called  alternative compensation systems , that some voices put forward as a progressive alternative to DRM and mass-criminalization, they are no less reproducing this split.
+The idea is usually to impose a special fee on every internet connection, so that a bureaucracy could channel the money to publishers and other rights holders.
+This way we can save both the copyright system and file sharing, says amongst others Lawrence Lessig, the EFF, and the Swedish Green party.
+However, none of them likes to specify exactly how it should be decided which creators that should get money.
+If book authors should get compensation when their books are digitally transmitted, why should not bloggers get a part of this compensation as well?
+So, for the very notion of  compensation  to work, there must be someone filtering out the  worthy  forms of artistic creation from  unworthy .
+(Or the system could give every internet user money for every line they are writing in a chat, but that would maybe better be called an universal basic income.) This dilemma also illustrates the schizophrenic nature of industry.
+Companies like Microsoft and Sony on one hand tries to use DRM to block out independent cultural production.
+But on the other, they are already totally dependent of what they call “user-generated content”.
+Clever entrepreneurs of course do understand that internet business is not about selling information.
+It is about selling the possibility to interact.
+Overcoming the split between producers and consumers is not some utopia of a world to come, but a necessity to let communication media be communication media instead of simulating one-way media.
+Copyright's three points of crisis I have mentioned two key points in copyrights' permanent crisis, points where concepts that where evolved to handle the separated flows of one-way mass-media clashes with the reality of networked computers.
+One was the fact that the very concept of copying is rather arbitrary when it comes to digital technology, as using digital information already implicates that it is copied.
+Another was the extreme problems with institutionalizing a producer/consumer-division, inside a media technology used for horizontal communication.
+Both anomalies seems totally unsolvable, from the perspective of copyright, and indicates that the copyfight is very unlikely to cool down.
+Now I will go on to the third point of crisis: the form/content dichotomy.
+Three key points in copyright’s permanented crisis RAM/ROM; the very definition of ”copying” is arbitrary Consumer/producer; impossible to institutionalize, especially in communication media.
+Form/content; the distinction can only pass a digital cable as simulation The form/content-division belongs in the age of postal distribution Year 1793, Johan Gottlieb Fichte wrote a piece that for the first time clearly separated  form  and  content , with the specific and successfull goal of establishing literary copyright.
+While an author's ideas are the universal content of writing, he gives them an unique individual form, which is his intellectual property.
+Then, on another level, the copyrighted material itself usually is described as content, then understood as abstracted artefacts, not bound to a specific media form.
+Communication media are, on a kind of third level, also logically divided between form and content; or, more specific, in address and message, or instruction and information.
+That division could seem totally unproblematic at Fichte's times around year 1800, at the dawn of modern copyright and a couple of centuries after the postal system got public.
+The postal system has always built upon the physical separation between the address outside the envelope, and the message inside it, the latter hidden and legally protected.
+Already with telephony, however, this separation wall started to leak.
+The  hole  between form and content was signified by the frequency of 2600 Hz, used by phreakers to insert information that the central servers interpreted as instructions to connect calls for free.
+But, as the servers were still centralised, this tiny hole never grew to be a huge gap in the wall.
+Networked computers, however, are not only media, but universal semiotic machines.
+Computers makes no difference between information and instruction, they're storing text and code in just the same way: Form and content cannot be distinguished objectively.
+But that distinction is what European politicians today are trying to resurrect, in the implementation of the data retention directive.
+What they say and probably believe, is that data retention has nothing to do with supervising what people say to each other on the net – it's not about the content, only about who is communicating with who.
+And that is maybe possible if this is restricted to e-mail communication using the SMTP protocol.
+But what for, if every criminal knows that they can just communicate in chatrooms or with community messages?
+Either politicians must give up their stated ambition, or they are bound to go into ever more detailed regulation of specific internet protocols.
+But Sweden's judiciary minister thomas Bodström, that has been spearheading the European plans for data retention, still talks about supervising only the address layer and not the content layer.
+The important point, in criticising data retention and similar surveillance measures, is not about so called  privacy  or  personal integrity .
+We would like to stress the importance of different media logics.
+The distinguishing of form and content is a physical part of an postal letter, but it cannot pass a data cable.
+The only way for it to pass, is as a simulation.
+And every single regulation that is based on such a simulation, will inevitabely kill one thousand other possible simulations.
+It will block the exploring of one thousand paths.
+Instead of assuming the holiness of privacy, we are questioning the technological consequences of data retention, in terms of detailled regulation of communication protocols, and the ban on anonymous internet connections.
+The main problem with surveillance and with the war against filesharing, is maybe not about an unfair trespassing on what should belong to the individual subject – it is about an unfair and absurd attempt to turn networked computers into individual subjects.
+A vital experiment of complexity Maybe what is most important now, is to bypass the urge for solutions, for victory in battles or for compromise and stability.
+For example, talking about how to  compensate the creators  is to obscure the truth about the social production of culture.
+Such talk establishes the myth of copyright as some kind of  wage  for artists, and the strange idea that real-time performative aspects of culture are secondary or unimportant.
+And while some of the Creative Commons licenses can of course be usable sometimes, it would also be a wrong to believe in that a “some rights reserved”-approach would do anything to cool down the three anomalies mentioned before.
+Instead, that approach sometimes just seems to move the problem to another field: Instead of the producer/consumer-dilemma, you get something quite similar, namely the commercial/uncommercial dilemma.
+Making general statements about the alternative to copyright always brings the danger of strengthening copyright's universality claim.
+On the contrary, trying to keep the grey zone as open and wide as possible will almost automatically produce better conditions for cultural production to go beyond prevalent economic imperatives.
+We think that our projects have generally succeeded in escaping the most obvious re-territorializations, like explaining file-sharing just as a response to expensive records.
+Instead, they aim is to open up and explore new grey zones.
+The Pirate Bay is one example – a grey zone currently under attack.
+Much of the mass-medial reporting are still blind to the grey.
+Paradoxically, they represent the binary world in an all-too-binary way.
+In their black and white picture, the conflict is about certain  content ; the picture is painted with The Pirate Bay on one hand and  the rights holders  on the other.
+Everything that is not juridically plain white like a penguin, is in that picture black.
+But we would like to direct the attention to the grey zone, that is all the movies and music and text on The Pirate Bay that no rights holder ever thinks about trying to stop, either because they affirm it as a possibility or because they really don't care or because the works are actually orphaned.
+The attack on Pirate Bay is an attack on that grey zone.
+Rather than securing their own copyrights, the movie industry are attacking an infrastructure that is needed for many kinds of independent production.
+They are not attacking piracy in general, as the sharing of digital files can always take its physical routes.
+They are attacking the very possibility to interconnect metadata of private archives.
+But while intellectual property will surely continue to be a battleground for major clampdowns in our society, there will always be enumerable lots of open ways.
+The drive of discovering, thinking and inventing alternative processes of production is the affirmative power of life as a vital experiment of complexity.
+Internet piracy is all about desiring-production, and its long-term effects are beyond our human capacity to compute.
